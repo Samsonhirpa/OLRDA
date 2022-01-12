@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.OLRDAv1">
-        <activity android:name=".Doc1"></activity>
+        <activity android:name=".Developer"></activity>
+        <activity android:name=".MV" />
+        <activity android:name=".CED" />
+        <activity android:name=".VS" />
+        <activity android:name=".VLD" />
+        <activity android:name=".VTV" />
+        <activity android:name=".Doc1" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
